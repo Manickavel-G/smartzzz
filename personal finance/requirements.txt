@@ -1,0 +1,14 @@
+
+---
+
+# 📄 `requirements.txt`
+
+```txt
+streamlit
+pandas
+plotly
+transformers
+torch
+ibm-watson
+pytest
+python-dotenv

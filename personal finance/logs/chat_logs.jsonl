@@ -1,0 +1,12 @@
+{"user": "Alex", "type": "student", "input": "10000", "intent": "general", "reply": "\ud83e\udd16 I'm here to help with budgeting, savings, or investments."}
+{"user": "Alex", "type": "professional", "input": "10000", "intent": "general", "reply": "\ud83e\udd16 I'm here to help with budgeting, savings, or investments."}
+{"user": "Alex", "type": "professional", "input": "what i can do", "intent": "general", "reply": "\ud83e\udd16 I'm here to help with budgeting, savings, or investments."}
+{"user": "Alex", "type": "student", "input": "invesment", "intent": "general", "reply": "\ud83e\udd16 I'm here to help with budgeting, savings, or investments."}
+{"user": "Alex", "type": "student", "input": "investment", "intent": "investment", "reply": "\ud83d\udcc8 Consider SIPs, low-risk funds.\nAction: Start with small, regular investments."}
+{"user": "Alex", "type": "student", "input": "investment", "intent": "investment", "reply": "\ud83d\udcc8 Consider SIPs, low-risk funds.\nAction: Start with small, regular investments."}
+{"user": "Alex", "type": "student", "input": "budget", "intent": "budget", "reply": "\ud83d\udcca Your monthly savings: 30000 (100.0%)."}
+{"user": "Alex", "type": "student", "input": "budget", "intent": "budget", "reply": "\ud83d\udcca Your monthly savings: 10000 (100.0%)."}
+{"user": "Aswin", "type": "student", "input": "budget", "intent": "budget", "reply": "\ud83d\udcca Your monthly savings: 4800 (48.0%)."}
+{"user": "dharani", "type": "student", "input": "budget", "intent": "budget", "reply": "\ud83d\udcca Your monthly savings: 2765 (92.17%)."}
+{"user": "dharani", "type": "student", "input": "investment", "intent": "investment", "reply": "\ud83d\udcc8 Consider SIPs, low-risk funds.\nAction: Start with small, regular investments."}
+{"user": "shilja", "type": "student", "input": "budget", "intent": "budget", "reply": "\ud83d\udcca Your monthly savings: 30402 (76.0%)."}
